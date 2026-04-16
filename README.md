@@ -62,6 +62,7 @@ Intelligent defect detection of insulators is faster, more accurate, standardize
 ## Citation
 
 If you find this dataset useful in your research, please consider citing our paper:
+```
 @article{cui2024dins,
   title={DINS: A Diverse Insulator Dataset for Object Detection and Instance Segmentation},
   author={Cui, Benben and Han, Chao and Yang, Mingyuan and Ding, Lu and Shuang, Feng},
@@ -72,6 +73,9 @@ If you find this dataset useful in your research, please consider citing our pap
   pages={12252--12261},
   doi={10.1109/TII.2024.3417290}
 }
+```
 Or in plain text:
+```
 Benben Cui, Chao Han*, Mingyuan Yang, Lu Ding, Feng Shuang. DINS: A Diverse Insulator Dataset for Object Detection and Instance Segmentation [J]. IEEE Transactions on Industrial Informatics, 2024, 20(10): 12252-12261. 
 * DOI: 10.1109/TII.2024.3417290
+```
