@@ -58,3 +58,20 @@ Due to limited cloud storage space, only the complete mask data has been uploade
 ## Abstract
 
 Intelligent defect detection of insulators is faster, more accurate, standardized, and cheaper than manual detection with necessary massive inspection work. Insulator datasets are important for training detection models. Nevertheless, public datasets are scarce and lack variety which hampers improving detection accuracy and achieving industrial-grade accuracy. We construct a comprehensive beyond the current insulator dataset – the Diverse Insulator Dataset (DINS). DINS contains over ten thousand insulator images involving three insulator types (porcelain, glass, and composite) and defects. We annotate over twenty-five thousand bounding boxes for object detection and nine thousand masks for instance segmentation. DINS has much more scale and diversity than the current insulator datasets. Eventually, we discussed the effective augmentation methods for DINS and conducted some experiments demonstrating the usefulness of DINS with 98.3% mAP of object detection and 97.2% mAP of instance segmentation. 
+
+## Citation
+
+If you find this dataset useful in your research, please consider citing our paper:
+@article{cui2024dins,
+  title={DINS: A Diverse Insulator Dataset for Object Detection and Instance Segmentation},
+  author={Cui, Benben and Han, Chao and Yang, Mingyuan and Ding, Lu and Shuang, Feng},
+  journal={IEEE Transactions on Industrial Informatics},
+  year={2024},
+  volume={20},
+  number={10},
+  pages={12252--12261},
+  doi={10.1109/TII.2024.3417290}
+}
+Or in plain text:
+Benben Cui, Chao Han*, Mingyuan Yang, Lu Ding, Feng Shuang. DINS: A Diverse Insulator Dataset for Object Detection and Instance Segmentation [J]. IEEE Transactions on Industrial Informatics, 2024, 20(10): 12252-12261. 
+* DOI: 10.1109/TII.2024.3417290
